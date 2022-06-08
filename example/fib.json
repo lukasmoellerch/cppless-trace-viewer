@@ -1,0 +1,1580 @@
+{
+  "spans": [
+    {
+      "end_time": 0,
+      "inline_children": false,
+      "name": "root",
+      "parent": 0,
+      "start_time": 0,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931633572,
+      "inline_children": false,
+      "name": "a",
+      "parent": 0,
+      "start_time": 278126343698543,
+      "tags": {}
+    },
+    {
+      "end_time": 278126869422003,
+      "inline_children": false,
+      "name": "b",
+      "parent": 0,
+      "start_time": 278126343699878,
+      "tags": {}
+    },
+    {
+      "end_time": 0,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 1,
+      "start_time": 0,
+      "tags": {}
+    },
+    {
+      "end_time": 278126343737096,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 3,
+      "start_time": 278126343705690,
+      "tags": {}
+    },
+    {
+      "end_time": 278126343868607,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 3,
+      "start_time": 278126343791336,
+      "tags": {}
+    },
+    {
+      "end_time": 278126932080795,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 3,
+      "start_time": 278126344509528,
+      "tags": {}
+    },
+    {
+      "end_time": 278126347017478,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 6,
+      "start_time": 278126344503324,
+      "tags": {}
+    },
+    {
+      "end_time": 278126371165749,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 6,
+      "start_time": 278126347017688,
+      "tags": {}
+    },
+    {
+      "end_time": 278126428120378,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 6,
+      "start_time": 278126371166075,
+      "tags": {}
+    },
+    {
+      "end_time": 278126428594815,
+      "inline_children": false,
+      "name": "write",
+      "parent": 6,
+      "start_time": 278126428120958,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931063050,
+      "inline_children": false,
+      "name": "read",
+      "parent": 6,
+      "start_time": 278126428595178,
+      "tags": {}
+    },
+    {
+      "end_time": 278126932080619,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 6,
+      "start_time": 278126931063464,
+      "tags": {}
+    },
+    {
+      "end_time": 0,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 2,
+      "start_time": 0,
+      "tags": {}
+    },
+    {
+      "end_time": 278126344538863,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 13,
+      "start_time": 278126344533329,
+      "tags": {}
+    },
+    {
+      "end_time": 278126344623746,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 13,
+      "start_time": 278126344564793,
+      "tags": {}
+    },
+    {
+      "end_time": 278126869558917,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 13,
+      "start_time": 278126345134655,
+      "tags": {}
+    },
+    {
+      "end_time": 278126347176341,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 16,
+      "start_time": 278126345132234,
+      "tags": {}
+    },
+    {
+      "end_time": 278126370553935,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 16,
+      "start_time": 278126347176478,
+      "tags": {}
+    },
+    {
+      "end_time": 278126422851378,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 16,
+      "start_time": 278126370554416,
+      "tags": {}
+    },
+    {
+      "end_time": 278126423524502,
+      "inline_children": false,
+      "name": "write",
+      "parent": 16,
+      "start_time": 278126422852013,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868974486,
+      "inline_children": false,
+      "name": "read",
+      "parent": 16,
+      "start_time": 278126423524867,
+      "tags": {}
+    },
+    {
+      "end_time": 278126869558732,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 16,
+      "start_time": 278126868974919,
+      "tags": {}
+    },
+    {
+      "end_time": 278126869237211,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 13,
+      "start_time": 278126868994398,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931491020,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 3,
+      "start_time": 278126931070616,
+      "tags": {}
+    },
+    {
+      "end_time": 0,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 1,
+      "start_time": 0,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931633746,
+      "inline_children": false,
+      "name": "root",
+      "parent": 25,
+      "start_time": 278126627210310,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931197488,
+      "inline_children": false,
+      "name": "a",
+      "parent": 26,
+      "start_time": 278126636384229,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880772164,
+      "inline_children": false,
+      "name": "b",
+      "parent": 26,
+      "start_time": 278126636384653,
+      "tags": {}
+    },
+    {
+      "end_time": 277398573588664,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 27,
+      "start_time": 277398573588664,
+      "tags": {}
+    },
+    {
+      "end_time": 278126636399085,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 29,
+      "start_time": 278126636385299,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638128007,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 29,
+      "start_time": 278126636417140,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931270429,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 29,
+      "start_time": 278126638294597,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638729907,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 32,
+      "start_time": 278126638293648,
+      "tags": {}
+    },
+    {
+      "end_time": 278126639809934,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 32,
+      "start_time": 278126638730170,
+      "tags": {}
+    },
+    {
+      "end_time": 278126654833236,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 32,
+      "start_time": 278126639810024,
+      "tags": {}
+    },
+    {
+      "end_time": 278126654874338,
+      "inline_children": false,
+      "name": "write",
+      "parent": 32,
+      "start_time": 278126654833324,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931053210,
+      "inline_children": false,
+      "name": "read",
+      "parent": 32,
+      "start_time": 278126654874369,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931270386,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 32,
+      "start_time": 278126931053341,
+      "tags": {}
+    },
+    {
+      "end_time": 277398573588664,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 28,
+      "start_time": 277398573588664,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638299291,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 39,
+      "start_time": 278126638297124,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638358139,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 39,
+      "start_time": 278126638332194,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880796183,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 39,
+      "start_time": 278126638456932,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638784691,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 42,
+      "start_time": 278126638456609,
+      "tags": {}
+    },
+    {
+      "end_time": 278126639578277,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 42,
+      "start_time": 278126638784756,
+      "tags": {}
+    },
+    {
+      "end_time": 278126652864245,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 42,
+      "start_time": 278126639578437,
+      "tags": {}
+    },
+    {
+      "end_time": 278126654758785,
+      "inline_children": false,
+      "name": "write",
+      "parent": 42,
+      "start_time": 278126652864428,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880650618,
+      "inline_children": false,
+      "name": "read",
+      "parent": 42,
+      "start_time": 278126654758857,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880796139,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 42,
+      "start_time": 278126880650852,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880700274,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 39,
+      "start_time": 278126880652391,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931120370,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 29,
+      "start_time": 278126931054416,
+      "tags": {}
+    },
+    {
+      "end_time": 277398573588664,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 27,
+      "start_time": 277398573588664,
+      "tags": {}
+    },
+    {
+      "end_time": 278126931197583,
+      "inline_children": false,
+      "name": "root",
+      "parent": 51,
+      "start_time": 278126826741266,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930737185,
+      "inline_children": false,
+      "name": "a",
+      "parent": 52,
+      "start_time": 278126836672423,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881580382,
+      "inline_children": false,
+      "name": "b",
+      "parent": 52,
+      "start_time": 278126836672843,
+      "tags": {}
+    },
+    {
+      "end_time": 277680318641221,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 53,
+      "start_time": 277680318641221,
+      "tags": {}
+    },
+    {
+      "end_time": 278126836683613,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 55,
+      "start_time": 278126836673347,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838209623,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 55,
+      "start_time": 278126836702608,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930812424,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 55,
+      "start_time": 278126838388122,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838920425,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 58,
+      "start_time": 278126838387339,
+      "tags": {}
+    },
+    {
+      "end_time": 278126839873673,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 58,
+      "start_time": 278126838920652,
+      "tags": {}
+    },
+    {
+      "end_time": 278126853015296,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 58,
+      "start_time": 278126839873765,
+      "tags": {}
+    },
+    {
+      "end_time": 278126853057761,
+      "inline_children": false,
+      "name": "write",
+      "parent": 58,
+      "start_time": 278126853015454,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930601605,
+      "inline_children": false,
+      "name": "read",
+      "parent": 58,
+      "start_time": 278126853057802,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930812381,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 58,
+      "start_time": 278126930601724,
+      "tags": {}
+    },
+    {
+      "end_time": 277680318641221,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 54,
+      "start_time": 277680318641221,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838398502,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 65,
+      "start_time": 278126838390263,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838462973,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 65,
+      "start_time": 278126838435586,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881615322,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 65,
+      "start_time": 278126838582334,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838967210,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 68,
+      "start_time": 278126838582013,
+      "tags": {}
+    },
+    {
+      "end_time": 278126839659157,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 68,
+      "start_time": 278126838967300,
+      "tags": {}
+    },
+    {
+      "end_time": 278126851408901,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 68,
+      "start_time": 278126839659237,
+      "tags": {}
+    },
+    {
+      "end_time": 278126852936285,
+      "inline_children": false,
+      "name": "write",
+      "parent": 68,
+      "start_time": 278126851409083,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881472008,
+      "inline_children": false,
+      "name": "read",
+      "parent": 68,
+      "start_time": 278126852936370,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881615281,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 68,
+      "start_time": 278126881472237,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881490942,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 65,
+      "start_time": 278126881473240,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930664467,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 55,
+      "start_time": 278126930602840,
+      "tags": {}
+    },
+    {
+      "end_time": 277680318641221,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 53,
+      "start_time": 277680318641221,
+      "tags": {}
+    },
+    {
+      "end_time": 278126930737259,
+      "inline_children": false,
+      "name": "root",
+      "parent": 77,
+      "start_time": 278126879328796,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927280138,
+      "inline_children": false,
+      "name": "a",
+      "parent": 78,
+      "start_time": 278126888274377,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928724097,
+      "inline_children": false,
+      "name": "b",
+      "parent": 78,
+      "start_time": 278126888274797,
+      "tags": {}
+    },
+    {
+      "end_time": 277320176403540,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 79,
+      "start_time": 277320176403540,
+      "tags": {}
+    },
+    {
+      "end_time": 278126888283675,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 81,
+      "start_time": 278126888275282,
+      "tags": {}
+    },
+    {
+      "end_time": 278126889705567,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 81,
+      "start_time": 278126888306924,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927304593,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 81,
+      "start_time": 278126889856877,
+      "tags": {}
+    },
+    {
+      "end_time": 278126890215202,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 84,
+      "start_time": 278126889851480,
+      "tags": {}
+    },
+    {
+      "end_time": 278126891192858,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 84,
+      "start_time": 278126890215402,
+      "tags": {}
+    },
+    {
+      "end_time": 278126902946815,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 84,
+      "start_time": 278126891192973,
+      "tags": {}
+    },
+    {
+      "end_time": 278126904317631,
+      "inline_children": false,
+      "name": "write",
+      "parent": 84,
+      "start_time": 278126902946911,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927201301,
+      "inline_children": false,
+      "name": "read",
+      "parent": 84,
+      "start_time": 278126904317704,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927304541,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 84,
+      "start_time": 278126927201405,
+      "tags": {}
+    },
+    {
+      "end_time": 277320176403540,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 80,
+      "start_time": 277320176403540,
+      "tags": {}
+    },
+    {
+      "end_time": 278126889864019,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 91,
+      "start_time": 278126889861876,
+      "tags": {}
+    },
+    {
+      "end_time": 278126889926395,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 91,
+      "start_time": 278126889891126,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928738703,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 91,
+      "start_time": 278126890028193,
+      "tags": {}
+    },
+    {
+      "end_time": 278126890251903,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 94,
+      "start_time": 278126890027920,
+      "tags": {}
+    },
+    {
+      "end_time": 278126891381742,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 94,
+      "start_time": 278126890251988,
+      "tags": {}
+    },
+    {
+      "end_time": 278126904397082,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 94,
+      "start_time": 278126891381857,
+      "tags": {}
+    },
+    {
+      "end_time": 278126904448974,
+      "inline_children": false,
+      "name": "write",
+      "parent": 94,
+      "start_time": 278126904397153,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928671127,
+      "inline_children": false,
+      "name": "read",
+      "parent": 94,
+      "start_time": 278126904449035,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928738651,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 94,
+      "start_time": 278126928671287,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927219159,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 81,
+      "start_time": 278126927203289,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928680977,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 91,
+      "start_time": 278126928672004,
+      "tags": {}
+    },
+    {
+      "end_time": 277320176403540,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 79,
+      "start_time": 277320176403540,
+      "tags": {}
+    },
+    {
+      "end_time": 278126927280062,
+      "inline_children": false,
+      "name": "root",
+      "parent": 103,
+      "start_time": 278126927279784,
+      "tags": {}
+    },
+    {
+      "end_time": 277320176403540,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 80,
+      "start_time": 277320176403540,
+      "tags": {}
+    },
+    {
+      "end_time": 278126928724172,
+      "inline_children": false,
+      "name": "root",
+      "parent": 105,
+      "start_time": 278126928723827,
+      "tags": {}
+    },
+    {
+      "end_time": 277680318641221,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 54,
+      "start_time": 277680318641221,
+      "tags": {}
+    },
+    {
+      "end_time": 278126881580305,
+      "inline_children": false,
+      "name": "root",
+      "parent": 107,
+      "start_time": 278126881580084,
+      "tags": {}
+    },
+    {
+      "end_time": 277398573588664,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 28,
+      "start_time": 277398573588664,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880772071,
+      "inline_children": false,
+      "name": "root",
+      "parent": 109,
+      "start_time": 278126816550023,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880395775,
+      "inline_children": false,
+      "name": "a",
+      "parent": 110,
+      "start_time": 278126825594952,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875113449,
+      "inline_children": false,
+      "name": "b",
+      "parent": 110,
+      "start_time": 278126825595421,
+      "tags": {}
+    },
+    {
+      "end_time": 277799008695408,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 111,
+      "start_time": 277799008695408,
+      "tags": {}
+    },
+    {
+      "end_time": 278126825606531,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 113,
+      "start_time": 278126825595914,
+      "tags": {}
+    },
+    {
+      "end_time": 278126827277540,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 113,
+      "start_time": 278126825623795,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880412738,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 113,
+      "start_time": 278126827428158,
+      "tags": {}
+    },
+    {
+      "end_time": 278126829710114,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 116,
+      "start_time": 278126827427246,
+      "tags": {}
+    },
+    {
+      "end_time": 278126831172550,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 116,
+      "start_time": 278126829710370,
+      "tags": {}
+    },
+    {
+      "end_time": 278126844575755,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 116,
+      "start_time": 278126831172678,
+      "tags": {}
+    },
+    {
+      "end_time": 278126844622574,
+      "inline_children": false,
+      "name": "write",
+      "parent": 116,
+      "start_time": 278126844575902,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880330190,
+      "inline_children": false,
+      "name": "read",
+      "parent": 116,
+      "start_time": 278126844622614,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880412694,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 116,
+      "start_time": 278126880330330,
+      "tags": {}
+    },
+    {
+      "end_time": 277799008695408,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 112,
+      "start_time": 277799008695408,
+      "tags": {}
+    },
+    {
+      "end_time": 278126827432942,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 123,
+      "start_time": 278126827430609,
+      "tags": {}
+    },
+    {
+      "end_time": 278126827489532,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 123,
+      "start_time": 278126827463461,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875137987,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 123,
+      "start_time": 278126827582931,
+      "tags": {}
+    },
+    {
+      "end_time": 278126829759784,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 126,
+      "start_time": 278126827582646,
+      "tags": {}
+    },
+    {
+      "end_time": 278126830919543,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 126,
+      "start_time": 278126829759858,
+      "tags": {}
+    },
+    {
+      "end_time": 278126842370005,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 126,
+      "start_time": 278126830919584,
+      "tags": {}
+    },
+    {
+      "end_time": 278126843740621,
+      "inline_children": false,
+      "name": "write",
+      "parent": 126,
+      "start_time": 278126842370198,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875038853,
+      "inline_children": false,
+      "name": "read",
+      "parent": 126,
+      "start_time": 278126843740663,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875137939,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 126,
+      "start_time": 278126875039056,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875056665,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 123,
+      "start_time": 278126875040502,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880346312,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 113,
+      "start_time": 278126880331388,
+      "tags": {}
+    },
+    {
+      "end_time": 277799008695408,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 111,
+      "start_time": 277799008695408,
+      "tags": {}
+    },
+    {
+      "end_time": 278126880395876,
+      "inline_children": false,
+      "name": "root",
+      "parent": 135,
+      "start_time": 278126880395613,
+      "tags": {}
+    },
+    {
+      "end_time": 277799008695408,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 112,
+      "start_time": 277799008695408,
+      "tags": {}
+    },
+    {
+      "end_time": 278126875113355,
+      "inline_children": false,
+      "name": "root",
+      "parent": 137,
+      "start_time": 278126875113141,
+      "tags": {}
+    },
+    {
+      "end_time": 0,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 2,
+      "start_time": 0,
+      "tags": {}
+    },
+    {
+      "end_time": 278126869421691,
+      "inline_children": false,
+      "name": "root",
+      "parent": 139,
+      "start_time": 278126615474628,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868893018,
+      "inline_children": false,
+      "name": "a",
+      "parent": 140,
+      "start_time": 278126624526484,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816490069,
+      "inline_children": false,
+      "name": "b",
+      "parent": 140,
+      "start_time": 278126624526833,
+      "tags": {}
+    },
+    {
+      "end_time": 277770332402066,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 141,
+      "start_time": 277770332402066,
+      "tags": {}
+    },
+    {
+      "end_time": 278126624538888,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 143,
+      "start_time": 278126624527362,
+      "tags": {}
+    },
+    {
+      "end_time": 278126626111421,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 143,
+      "start_time": 278126624557603,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868955409,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 143,
+      "start_time": 278126626269395,
+      "tags": {}
+    },
+    {
+      "end_time": 278126627367147,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 146,
+      "start_time": 278126626268612,
+      "tags": {}
+    },
+    {
+      "end_time": 278126627669290,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 146,
+      "start_time": 278126627367432,
+      "tags": {}
+    },
+    {
+      "end_time": 278126638369816,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 146,
+      "start_time": 278126627669413,
+      "tags": {}
+    },
+    {
+      "end_time": 278126639798200,
+      "inline_children": false,
+      "name": "write",
+      "parent": 146,
+      "start_time": 278126638369955,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868804809,
+      "inline_children": false,
+      "name": "read",
+      "parent": 146,
+      "start_time": 278126639798243,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868955370,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 146,
+      "start_time": 278126868804931,
+      "tags": {}
+    },
+    {
+      "end_time": 277770332402066,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 142,
+      "start_time": 277770332402066,
+      "tags": {}
+    },
+    {
+      "end_time": 278126626277313,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 153,
+      "start_time": 278126626274484,
+      "tags": {}
+    },
+    {
+      "end_time": 278126626337360,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 153,
+      "start_time": 278126626310895,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816527687,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 153,
+      "start_time": 278126626433482,
+      "tags": {}
+    },
+    {
+      "end_time": 278126627413416,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 156,
+      "start_time": 278126626433170,
+      "tags": {}
+    },
+    {
+      "end_time": 278126627938227,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 156,
+      "start_time": 278126627413489,
+      "tags": {}
+    },
+    {
+      "end_time": 278126639885037,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 156,
+      "start_time": 278126627938304,
+      "tags": {}
+    },
+    {
+      "end_time": 278126639928033,
+      "inline_children": false,
+      "name": "write",
+      "parent": 156,
+      "start_time": 278126639885202,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816395203,
+      "inline_children": false,
+      "name": "read",
+      "parent": 156,
+      "start_time": 278126639928071,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816527644,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 156,
+      "start_time": 278126816395407,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816427175,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 153,
+      "start_time": 278126816396825,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868844001,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 143,
+      "start_time": 278126868806334,
+      "tags": {}
+    },
+    {
+      "end_time": 277770332402066,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 141,
+      "start_time": 277770332402066,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868893096,
+      "inline_children": false,
+      "name": "root",
+      "parent": 165,
+      "start_time": 278126810782456,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862468229,
+      "inline_children": false,
+      "name": "a",
+      "parent": 166,
+      "start_time": 278126819795534,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868480561,
+      "inline_children": false,
+      "name": "b",
+      "parent": 166,
+      "start_time": 278126819795898,
+      "tags": {}
+    },
+    {
+      "end_time": 277667751639773,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 167,
+      "start_time": 277667751639773,
+      "tags": {}
+    },
+    {
+      "end_time": 278126819806982,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 169,
+      "start_time": 278126819796437,
+      "tags": {}
+    },
+    {
+      "end_time": 278126821403564,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 169,
+      "start_time": 278126819827699,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862490409,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 169,
+      "start_time": 278126821558187,
+      "tags": {}
+    },
+    {
+      "end_time": 278126825475485,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 172,
+      "start_time": 278126821557389,
+      "tags": {}
+    },
+    {
+      "end_time": 278126826352432,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 172,
+      "start_time": 278126825475707,
+      "tags": {}
+    },
+    {
+      "end_time": 278126839090355,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 172,
+      "start_time": 278126826352511,
+      "tags": {}
+    },
+    {
+      "end_time": 278126839218162,
+      "inline_children": false,
+      "name": "write",
+      "parent": 172,
+      "start_time": 278126839090479,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862394759,
+      "inline_children": false,
+      "name": "read",
+      "parent": 172,
+      "start_time": 278126839218298,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862490365,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 172,
+      "start_time": 278126862394882,
+      "tags": {}
+    },
+    {
+      "end_time": 277667751639773,
+      "inline_children": true,
+      "name": "dispatch",
+      "parent": 168,
+      "start_time": 277667751639773,
+      "tags": {}
+    },
+    {
+      "end_time": 278126821562964,
+      "inline_children": false,
+      "name": "serialization",
+      "parent": 179,
+      "start_time": 278126821560958,
+      "tags": {}
+    },
+    {
+      "end_time": 278126821620272,
+      "inline_children": false,
+      "name": "authorization",
+      "parent": 179,
+      "start_time": 278126821594288,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868498497,
+      "inline_children": true,
+      "name": "http_request",
+      "parent": 179,
+      "start_time": 278126821713678,
+      "tags": {}
+    },
+    {
+      "end_time": 278126825525550,
+      "inline_children": false,
+      "name": "resolve",
+      "parent": 182,
+      "start_time": 278126821713378,
+      "tags": {}
+    },
+    {
+      "end_time": 278126826584512,
+      "inline_children": false,
+      "name": "connect",
+      "parent": 182,
+      "start_time": 278126825525606,
+      "tags": {}
+    },
+    {
+      "end_time": 278126837559602,
+      "inline_children": false,
+      "name": "handshake",
+      "parent": 182,
+      "start_time": 278126826584618,
+      "tags": {}
+    },
+    {
+      "end_time": 278126838997241,
+      "inline_children": false,
+      "name": "write",
+      "parent": 182,
+      "start_time": 278126837559747,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868401977,
+      "inline_children": false,
+      "name": "read",
+      "parent": 182,
+      "start_time": 278126838997321,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868498454,
+      "inline_children": false,
+      "name": "shutdown",
+      "parent": 182,
+      "start_time": 278126868402310,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862413302,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 169,
+      "start_time": 278126862396083,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868419754,
+      "inline_children": false,
+      "name": "deserialization",
+      "parent": 179,
+      "start_time": 278126868403724,
+      "tags": {}
+    },
+    {
+      "end_time": 277667751639773,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 167,
+      "start_time": 277667751639773,
+      "tags": {}
+    },
+    {
+      "end_time": 278126862468154,
+      "inline_children": false,
+      "name": "root",
+      "parent": 191,
+      "start_time": 278126862467911,
+      "tags": {}
+    },
+    {
+      "end_time": 277667751639773,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 168,
+      "start_time": 277667751639773,
+      "tags": {}
+    },
+    {
+      "end_time": 278126868480589,
+      "inline_children": false,
+      "name": "root",
+      "parent": 193,
+      "start_time": 278126868480377,
+      "tags": {}
+    },
+    {
+      "end_time": 277770332402066,
+      "inline_children": false,
+      "name": "remote",
+      "parent": 142,
+      "start_time": 277770332402066,
+      "tags": {}
+    },
+    {
+      "end_time": 278126816489966,
+      "inline_children": false,
+      "name": "root",
+      "parent": 195,
+      "start_time": 278126816489701,
+      "tags": {}
+    }
+  ]
+}
